@@ -6,5 +6,4 @@ HOW TO START THIS PROJECT:
 AUTHORS: S Zucca
 
 USER INSTRUCTIONS:
-The .jar file should be installed on all of the school computers running BlueJ. This makes the
-classes available for import. 
+The .jar file should be installed on all of the school computers running BlueJ. This makes the classes available for import. 
