@@ -41,3 +41,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Files used/created during development in BlueJ
+*.class
+*.ctxt
+
