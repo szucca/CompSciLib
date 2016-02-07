@@ -3,8 +3,8 @@ package org.brookfieldps.zuccas;
 /**
  * Write a description of class APCS here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author S. Zucca 
+ * @version 2016
  */
 
 import java.util.Scanner;
