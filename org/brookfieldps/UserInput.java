@@ -1,4 +1,4 @@
-package org.brookfieldps.zuccas;
+package org.brookfieldps;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;

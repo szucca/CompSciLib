@@ -51,3 +51,5 @@ Temporary Items
 doc/*
 *.html
 *.css
+
+*.bluej
