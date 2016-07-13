@@ -46,3 +46,8 @@ Temporary Items
 *.class
 *.ctxt
 
+
+# Files created by JavaDocs
+doc/*
+*.html
+*.css
